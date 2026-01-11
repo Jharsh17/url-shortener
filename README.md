@@ -1,4 +1,4 @@
-# 🔗 Shortify - Advanced URL Shortener
+# 🔗 Shortify - URL Shortener Application
     
 Shortify is a production-grade, full-stack URL shortener application that allows users to shorten long URLs, track click analytics in real-time, and manage their links through a secure dashboard.
   
